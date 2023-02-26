@@ -2,3 +2,6 @@ body {
     background-color: burlywood;
     color: #112233;
 }
+h1 {
+    border: 1px solid #fff;
+}
