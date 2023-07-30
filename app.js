@@ -11,3 +11,15 @@
 // } else {
 //   alert("'NOT WELLCOME :'");
 // }
+
+
+//********* Take input from user and find Gender **********//
+
+// var gender = prompt("ENTER A GENDER");
+// if (gender.toLowerCase() === "male"){
+//     alert(" 'Good Morning Sir!' ");
+// }else if (gender.toLowerCase() === "female"){
+//     alert(" 'Good Morning Ma'am!' ");
+// } else {
+//     alert(" 'You are Male or Female ?? ' ");
+// }
