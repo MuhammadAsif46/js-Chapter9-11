@@ -207,3 +207,24 @@
 // }else {
 //     alert("this number is not allowed");
 // }
+
+
+
+//********* Take input from user and create mini calculater **********//
+
+// var cal1 = +prompt("ENTER FIRST NUMBER.");
+// var oper = prompt("ENTER OPERTOR (+, -, *, /, % ) NUMBER.");
+// var cal3 = +prompt("ENTER SECOND NUMBER.");
+
+// if (oper === "+"){
+//     cal1 = cal1 + cal3
+// }else if (oper === "-"){
+//     cal1 = cal1 - cal3
+// }else if (oper === "*"){
+//     cal1 = cal1 * cal3
+// }else if (oper === "/"){
+//     cal1 = cal1 / cal3
+// }else if (oper === "%"){
+//     cal1 = cal1 % cal3
+// }
+// alert(cal1);
