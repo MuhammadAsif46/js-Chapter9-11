@@ -178,3 +178,14 @@
 // }else {
 //     alert("try again");
 // }
+
+
+//********* Take input from user and show message input number is even or odd **********//
+
+// var num1 = prompt("ENTER A NUMBER.");
+
+// if (num1 % 2 === 0) {
+//     alert("this is an even number : " + num1);
+// }else {
+//     alert("this is an odd number : " + num1);
+// }
