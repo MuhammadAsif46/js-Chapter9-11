@@ -51,3 +51,19 @@
 // } else {
 //   alert(" Na Batanay Ki Paneshment ! <br><br> Yhi Kharay Raho ");
 // }
+
+
+
+//********* Take input from user and show message refill the fuel **********//
+
+// var fuel = prompt("Remaining Fuel In Your Car! In Liters ??");
+
+// if (fuel === "0.25 liter"){
+//     alert(" 'Please refill the fuel in your car!' ");
+// } else if (fuel === "1 liter"){
+//     alert(" If You Are Long Drive ! 'Please refill the fuel in your car' ");
+// } else if (fuel === "5 liter"){
+//     alert(" 'No Fuel Problem!' ");
+// } else {
+//     alert(" WRONG INPUT : ");
+// }
