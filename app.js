@@ -115,3 +115,40 @@
 // if ("car" < "cat") {
 //     alert("car is smaller than cat"); //correct code / but situation.
 // }
+
+
+
+//********* Take input from user and show ready marks sheet **********//
+
+// var total = 300;
+// var math = prompt("enter the marks of math 1 out of 100");
+// var english = prompt("enter the marks of english 1 out of 100");
+// var urdu = prompt("enter the marks of urdu 1 out of 100");
+// var obtMarks = Number(math) + Number(english) + Number(urdu);
+// var per = (Number(obtMarks) * 100) / 300;
+
+
+// document.write("MARKS SHEET :"+"<br>" + "<br>");
+// document.write("Total Marks : " + total + "<br>");
+// document.write("0btained Marks : " + obtMarks + "<br>");
+// document.write("Percentage : " + Math.round(per) + "%" + "<br>");
+
+// if (per >= 80) {
+//   document.write("your grade is : A+1" + "<br>");
+// } else if (per >= 70) {
+//   document.write("your grade is : A" + "<br>");
+// } else if (per >= 60) {
+//   document.write("your grade is : B" + "<br>");
+// } else if (per < 60) {
+//   document.write("your grade is : FAIL" + "<br>");
+// }
+
+// if (per >= 80) {
+//   document.write("Remarks : EXCELLENT" + "<br>");
+// } else if (per >= 70) {
+//   document.write(" Remarks : GOOD " + "<br>");
+// } else if (per >= 60) {
+//   document.write("Remarks : YOU NEED TO IMPROVE" + "<br>");
+// } else if (per < 60) {
+//   document.write("Remarks : SORRY" + "<br>");
+// }
