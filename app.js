@@ -167,3 +167,14 @@
 // } else {
 //     alert("you lose! " + computerNum);
 // }
+
+
+
+//********* Take input from user and the number is divisible by 3 **********//
+
+// var divided = +prompt("enter a number");
+// if (divided % 3 === 0 ){
+//     alert("If The Number Is Divided By 3");
+// }else {
+//     alert("try again");
+// }
