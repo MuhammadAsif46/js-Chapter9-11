@@ -152,3 +152,18 @@
 // } else if (per < 60) {
 //   document.write("Remarks : SORRY" + "<br>");
 // }
+
+
+
+//********* Take input from user and show secret number generate user = computer **********//
+
+// let userFavNum = +prompt("Enter a number 1 to 10");
+// let computerNum = Math.round(Math.random() * 10);
+
+// if (userFavNum === computerNum) {
+//     alert("you win! " + computerNum);
+// } else if (userFavNum - 1 === computerNum || userFavNum + 1 === computerNum ) {
+//     alert("you are so close : " + computerNum);
+// } else {
+//     alert("you lose! " + computerNum);
+// }
