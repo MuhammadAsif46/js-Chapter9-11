@@ -35,3 +35,19 @@
 // } else {
 //     alert(" 'You are Male or Female ?? ' ");
 // }
+
+
+
+//********* Take input from user and show traffic signal message **********//
+
+// var signalLight = prompt("ENTER A SIGNAL-LIGHT COLOR");
+
+// if (signalLight.toLowerCase() === "red") {
+//   alert(" Must Stop! ");
+// } else if (signalLight.toLowerCase() === "yellow") {
+//   alert(" Ready To Move! ");
+// } else if (signalLight.toLowerCase() === "green") {
+//   alert(" Move Now! ");
+// } else {
+//   alert(" Na Batanay Ki Paneshment ! <br><br> Yhi Kharay Raho ");
+// }
